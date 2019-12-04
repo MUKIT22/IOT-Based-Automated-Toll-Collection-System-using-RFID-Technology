@@ -27,24 +27,24 @@ For API:
 
 ## Ardino Connection with sensor and other elements
 
-![image21](./assets/image21.png)
+[image21]
 
 ##  Full Environment
 
-![image23](./assets/image23.png)
+[image23]
 
-![image22](./assets/image22.jpeg)
+[image22]
 
 ## Web Frontend
 
-![image24](./assets/image24.png)
+[image24]
 
-![image25](./assets/image25.png)
+[image25]
 
 ## Android Application
 
-![Screenshot_20181114-190026](./assets/Screenshot_20181114-190026.png) ![](./assets/Screenshot_20181114-190040.png)
+[Screenshot_20181114-190026]
 
-![Screenshot_20181114-190051](./assets/Screenshot_20181114-190051.png) ![Screenshot_20181114-190104](./assets/Screenshot_20181114-190104.png)
+[Screenshot_20181114-190051]
 
-![Screenshot_20181114-190112](./assets/Screenshot_20181114-190112.png) 
+[Screenshot_20181114-190112]
