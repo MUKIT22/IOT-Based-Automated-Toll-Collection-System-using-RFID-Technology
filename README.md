@@ -31,9 +31,9 @@ For API:
 
 ##  Full Environment
 
-[image23]
+image23.png
 
-[image22]
+image22.png
 
 ## Web Frontend
 
